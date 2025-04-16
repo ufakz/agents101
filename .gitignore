@@ -61,3 +61,32 @@ coverage.xml
 
 # Git submodules
 .gitmodules
+
+# Folders
+smolagents_demo/
+data/
+alfred_chroma_db/
+
+# Media files
+**/*.jpg
+**/*.jpeg
+**/*.png
+**/*.gif
+**/*.bmp
+**/*.svg
+**/*.ico
+**/*.mp4
+**/*.mov
+**/*.avi
+**/*.wmv
+**/*.mp3
+**/*.wav
+**/*.m4a
+**/*.flac
+**/*.pdf
+**/*.doc
+**/*.docx
+**/*.ppt
+**/*.pptx
+**/*.xls
+**/*.xlsx
