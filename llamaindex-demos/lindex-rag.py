@@ -3,7 +3,6 @@ import argparse
 from dotenv import load_dotenv
 import chromadb
 import nest_asyncio
-from typing import Optional
 
 from llama_index.vector_stores.chroma import ChromaVectorStore
 from llama_index.core import SimpleDirectoryReader, VectorStoreIndex
